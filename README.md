@@ -13,7 +13,7 @@
             </li>
         </ul>
     </p>
-    <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/main_image.jpg?raw=true" alt="main window image" width="800px">
-    <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/pin_image.jpg?raw=true" alt="pin window image" width="800px">     
+    <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/main_image.jpg?raw=true" alt="main window image" width="500px">
+    <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/pin_image.jpg?raw=true" alt="pin window image" width="500px">     
 </body>
 
