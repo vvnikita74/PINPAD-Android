@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pinpad</string>
+    <string name="pin_str">Enter Pin</string>
+</resources>
