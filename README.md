@@ -21,8 +21,8 @@
         </ul>
     </p>
     <div style="display: flex; flex-direction: row;">
-        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/main_image.jpg?raw=true" alt="main window image" style="max-width: 50%;">
-        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/pin_image.jpg?raw=true" alt="pin window image" style="max-width: 50%;">
+        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/main_image.jpg?raw=true" alt="main window image" style="max-width: 20%;">
+        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/pin_image.jpg?raw=true" alt="pin window image" style="max-width: 20%;">
     </div>      
 
 
