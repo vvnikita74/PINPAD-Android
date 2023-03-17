@@ -6,18 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-        <style>
-        .container {
-            display: flex;
-            flex-direction: row;
-        }
-
-        img {
-            max-width: 50%;
-            max-height: 10%;
-            margin-right: 10px;
-        }
-    </style>
     <h1 align="center">Pinpad in Android</h1>
     <p>
         <ul>
@@ -32,9 +20,9 @@
             </li>
         </ul>
     </p>
-    <div class="container">
-        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/main_image.jpg?raw=true" alt="main window image">
-        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/pin_image.jpg?raw=true" alt="pin window image">
+    <div style="display: flex; flex-direction: row;">
+        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/main_image.jpg?raw=true" alt="main window image" style="max-width: 50%;">
+        <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/pin_image.jpg?raw=true" alt="pin window image" style="max-width: 50%;">
     </div>      
 
 
