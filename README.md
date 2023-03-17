@@ -13,6 +13,6 @@
             </li>
         </ul>
     </p>
-    <img src="https://github.com/vvnikita74/Pinpad-Android/blob/master/image.jpg?raw=true" alt="windows image">   
+    <img src="[https://github.com/vvnikita74/Pinpad-Android/blob/master/image.jpg?raw=true](https://github.com/vvnikita74/Pinpad-Android/blob/master/image.png?raw=true)" alt="windows image">   
 </body>
 
